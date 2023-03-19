@@ -1,0 +1,5 @@
+venv/*
+predict_house_django/func/__pycache__/*
+predict_house_django/predict_house_django/__pycache__/*
+predict_house_django/prediction/__pycache__/*
+predict_house_django/prediction/migrations/__pycache__/*
